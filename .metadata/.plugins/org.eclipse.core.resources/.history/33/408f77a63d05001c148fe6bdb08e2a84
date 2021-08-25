@@ -1,0 +1,14 @@
+package ar.edu.uno.poo1.encriptar_mensaje;
+
+public class EncriptarMensaje {
+
+	public static void main(String[] args) {
+		
+
+	}
+	
+	public static String encriptarMensaje(String mensaje, int corrimiento) {
+		return new String;
+	}
+
+}

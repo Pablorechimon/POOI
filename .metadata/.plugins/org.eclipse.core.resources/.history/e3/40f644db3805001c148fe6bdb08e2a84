@@ -1,0 +1,32 @@
+package ar.edu.uno.poo1.metodos_string;
+
+public class MetodosString {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String mensaje = "Hola";
+		
+		MetodosString.recortarString(mensaje, 0, 2);
+		// charAt()
+		
+		// compareTo() && compareToIgnoreCase()
+		
+		// concat()
+		
+		// contains()
+		
+		// indexOf()
+		
+		// length()
+		
+		System.out.println(mensaje.length());
+	
+
+	}
+	
+	public static void recortarString(String mensaje, int indice_inicial, int indice_final) {
+		String mensajeRecortado = mensaje.substring(indice_inicial, indice_final);
+		System.out.println(mensajeRecortado);
+	}
+
+}

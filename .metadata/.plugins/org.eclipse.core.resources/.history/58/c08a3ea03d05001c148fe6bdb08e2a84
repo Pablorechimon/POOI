@@ -1,0 +1,10 @@
+package ar.edu.uno.poo1.encriptar_mensaje;
+
+public class EncriptarMensaje {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
